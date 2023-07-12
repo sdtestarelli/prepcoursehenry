@@ -1,2 +1,3 @@
-# prepcoursehenry
-esta es unb repositorio de pruebp del modulo 2 del prep course d ehenry
+soldiaztestarelli
+esta es unb repositorio es para nclonar a mi escritorio local
+
