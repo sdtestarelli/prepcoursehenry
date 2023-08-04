@@ -1,3 +1,3 @@
 soldiaztestarelli
-esta es unb repositorio es para nclonar a mi escritorio local
+este es un repositorio es para clonar a mi escritorio local
 
